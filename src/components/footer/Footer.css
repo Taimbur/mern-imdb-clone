@@ -1,0 +1,57 @@
+#column-304 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 13px;
+    padding-bottom: 31px
+}
+
+#heading-306 {
+    font-size: 25px;
+    font-weight: 700
+    justify-content-center
+}
+
+.tet {
+    font-style: italic;
+}
+
+#heading-308 {
+    font-size: 25px;
+    font-weight: 700
+}
+
+@media screen and (max-width: 479px) {
+    #heading-308 {
+        font-size: 18px
+    }
+}
+
+#paragraph-309 {
+    margin-bottom: 0
+}
+  
+#heading-317 {
+    margin-top:20px
+    }
+    
+    
+#form-311 {
+display:flex
+
+}
+
+#footer{
+    height: 350px;
+  border-radius: 2rem;
+    box-shadow: 5px 5px 15px 15px #850ee7;
+    justify-content: center;
+  
+}
+#khan{
+    text-shadow: 0 0 3px #FF0000;
+    font-weight: 700;
+    text-decoration: underline;
+}
